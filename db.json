@@ -4,7 +4,7 @@
         "id":1,
         "username":"Usuario 1",
         "state":true,
-          "deck":[1,2,3,4,5]
+          "deck":[5,2,3,4,5]
       },
       {
         "id":2,
