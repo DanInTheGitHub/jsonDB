@@ -2,19 +2,19 @@
     "users": [
             {
               "id":1,
-              "username":"nombre",
+              "username":"Hugo",
               "state":true,
                 "deck":[1,2,3,4,5] 
             },
             {
               "id":2,
-              "username":"apellido",
+              "username":"Paco",
               "state":true,
-                "deck":[50,20,31,46,58] 
+                "deck":[50,21,31,46,58] 
             },
             {
               "id":3,
-              "username":"repetido",
+              "username":"Luis",
               "state":true,
                 "deck":[501,202,317,463,589] 
             }
